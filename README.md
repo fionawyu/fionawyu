@@ -17,3 +17,12 @@ I develop ways to represent bird vocalizations as sequences of notes that people
 ## Collaboration
 
 I bring experience in audio representation, sequence comparison, and evaluation design to collaborations in bioacoustics, audio machine learning, and ecological monitoring. I'm open to 2027 postdoctoral and applied research opportunities. [Contact](https://fionawyu.github.io/about/)
+
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fionawyu&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionawyu&layout=compact&theme=dark" alt="Top languages" height="165" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=fionawyu&label=Profile%20views&style=flat" alt="Profile views" />
