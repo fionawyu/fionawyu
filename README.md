@@ -16,6 +16,10 @@ I build machine learning methods that turn bird recordings into interpretable no
 
 - **November 2026** · [BirdTokenSequences research code](https://github.com/fionawyu/birdtokensequences) is available on GitHub.
 
+## Research and technology updates
+
+[Audio research on arXiv](https://arxiv.org/list/cs.SD/recent) · [Machine learning preprints on arXiv](https://arxiv.org/list/cs.LG/recent) · [GitHub Changelog](https://github.blog/changelog/)
+
 ## Collaborate
 
 I'm open to research collaborations in bioacoustics, audio machine learning, and ecological monitoring, as well as 2027 postdoctoral and applied research opportunities.
